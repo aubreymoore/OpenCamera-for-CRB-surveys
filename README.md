@@ -21,5 +21,5 @@ Documents use of the Open Camera Android app for data acquisition in automated r
      
 Recording sessions can be started and paused by pressing the large blue circle on the Open Camera screen.
 I recommended copying the contents of the ```/DCIM/crb``` folder to a local computer soon after completing a recording session.
-After successfully copying the data, the ```crb``` folder should be deleted from the smartphone. 
-This folder will be automatically recreated when Open Camera is started for the next session. 
+After successfully copying the data, I recommend that you delete the ```crb``` folder from the smartphone. 
+This folder will be automatically recreated the next time you start when Open Camera. 

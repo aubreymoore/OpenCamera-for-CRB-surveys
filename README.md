@@ -22,6 +22,7 @@ This GitHub repository documents use of the Open Camera Android app for data acq
    * saved in the ```/DCIM/crb``` folder with file names like ```20250816_051843.jpg```. File names include the local date and time.
      
 Recording sessions can be started and paused by pressing the large blue circle on the Open Camera screen.
+
 I recommended copying the contents of the ```/DCIM/crb``` folder to a local computer soon after completing a recording session.
-After successfully copying the data, I recommend that you delete the ```crb``` folder from the smartphone. 
-This folder will be automatically recreated the next time you start when Open Camera. 
+After successfully copying the data, delete the ```crb``` folder and its contents from the smartphone. 
+An empty ```crb``` folder will be reated the next time you start Open Camera. 

@@ -12,7 +12,7 @@ This GitHub repository documents use of the Open Camera Android app for data acq
 * Configure the Open Camera app on your smartphone  
   * Activate the Open Camera app.
   * Click on the gear icon, scroll to the bottom of the page and open the ```Settings Manager```.
-  * Click on ```restore Settings```
+  * Click on ```Restore Settings```
   * Select the latest configuration file (currently ```crb20250816.xml```).
 
  Your Open Camera app should now behave as follows:

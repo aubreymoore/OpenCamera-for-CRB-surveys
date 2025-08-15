@@ -17,9 +17,9 @@ Documents use of the Open Camera Android app for data acquisition in automated r
  * Images will be recorded with these parameters:
    * recorded at a rate of one image per second
    * saved in JPEG (*.jpg) format at a resolution of 1920 x 1080 pixels
-   * saved in the ```/DCIM/crb``` folder with file names like ```20250816_051843.jpg```
+   * saved in the ```/DCIM/crb``` folder with file names like ```20250816_051843.jpg```. File names include the local date and time.
      
 Recording sessions can be started and paused by pressing the large blue circle on the Open Camera screen.
 I recommended copying the contents of the ```/DCIM/crb``` folder to a local computer soon after completing a recording session.
 After successfully copying the data, the ```crb``` folder should be deleted from the smartphone. 
-A new, empty ```crb`` folder will be automatically created when Open Camera is restarted. 
+This folder will be automatically recreated when Open Camera is started for the next session. 

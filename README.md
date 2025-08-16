@@ -1,6 +1,5 @@
 # OpenCamera-for-CRB-surveys
 This [GitHub repository](https://github.com/aubreymoore/OpenCamera-for-CRB-surveys) documents use of the Open Camera Android app for data acquisition in automated roadside surveys of coconut rhinoceros beetle damage.
-[Click here to see GitHub pages](https://aubreymoore.github.io/OpenCamera-for-CRB-surveys).
 
 ## Install and Configure the Open Camera app
 

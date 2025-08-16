@@ -9,7 +9,7 @@ This [GitHub repository](https://github.com/aubreymoore/OpenCamera-for-CRB-surve
   * Download the [latest configuration file](https://github.com/aubreymoore/OpenCamera-for-CRB-surveys/blob/main/crb20250816.xml) to your local computer.
   * Connect your smartphone to your local computer with a data cable.
   * Copy the configuaration file from your local computer to the Open Camera ```backups``` folder on your smartphone. On my phone, the backups folder is located at ```/Android/data/net.sourceforge.opencamera/files/backups/```.
-  * Disconnet your smartphone from the local computer.
+  * Disconnect your smartphone from the local computer.
 * Configure the Open Camera app on your smartphone  
   * Activate the Open Camera app.
   * Click on the gear icon, scroll to the bottom of the page and open the ```Settings Manager```.

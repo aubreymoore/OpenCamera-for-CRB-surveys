@@ -19,7 +19,8 @@ This [GitHub repository](https://github.com/aubreymoore/OpenCamera-for-CRB-surve
  * Images will be recorded with these parameters:
    * recorded at a rate of one image per second
    * saved in JPEG (*.jpg) format at a resolution of 1920 x 1080 pixels
-   * saved in the ```/DCIM/crb``` folder with file names like ```20250816_051843.jpg```. File names include the local date and time.
+   * saved in the ```/DCIM/crb``` folder with file names like ```20250816_051843.jpg```. File names include the local date and time
+   * GPS coordinates for the camera location are embedded in the EXIF metadata section of each image file
      
 Recording sessions can be started and paused by pressing the large blue circle on the Open Camera screen.
 
